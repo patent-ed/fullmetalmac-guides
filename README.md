@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://fullmetalmac.com">
-    <img src="assets/fmm-logo.svg" alt="Full Metal Mac" width="120">
+    <img src="assets/fmm-logo.png" alt="Full Metal Mac" width="180">
   </a>
 </p>
 
