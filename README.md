@@ -1,10 +1,32 @@
-# Full Metal Mac — Guides
+<p align="center">
+  <a href="https://fullmetalmac.com">
+    <img src="assets/fmm-logo.svg" alt="Full Metal Mac" width="120">
+  </a>
+</p>
+
+<h1 align="center">Full Metal Mac</h1>
+
+<p align="center">
+  <strong>Mission Control for Mac Admins</strong>
+</p>
+
+<p align="center">
+  A single-pane-of-glass dashboard that aggregates OS releases, security patches, vulnerability data, compliance tools, configuration generators, and community intel across the entire Apple ecosystem — all in one place.
+</p>
+
+<p align="center">
+  <a href="https://fullmetalmac.com">fullmetalmac.com</a>
+</p>
+
+---
+
+## Guides
 
 Working examples, scripts, and templates from [Full Metal Mac](https://fullmetalmac.com) guides.
 
 This repository is the public companion to the guides section on [fullmetalmac.com](https://fullmetalmac.com). Each folder maps to a published guide and contains the working code, scripts, and configuration files referenced in the article. Clone the repo, browse the examples, and use them as starting points for your own Mac admin workflows.
 
-## Guide Index
+## Available Guides
 
 | Guide | Description | Status |
 |-------|-------------|--------|
