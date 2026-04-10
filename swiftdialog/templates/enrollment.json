@@ -1,0 +1,44 @@
+{
+  "title": "Device Enrollment",
+  "message": "Welcome! Let's get your Mac set up.",
+  "icon": "SF=laptopcomputer,colour=#007AFF",
+  "button1text": "Continue",
+  "button2text": "Cancel",
+  "width": "700",
+  "textfield": [
+    {
+      "title": "Full Name",
+      "required": true,
+      "prompt": "First Last"
+    },
+    {
+      "title": "Email",
+      "required": true,
+      "regex": "^[^@]+@[^@]+\\.[^@]+$",
+      "regexerror": "Enter a valid email address"
+    },
+    {
+      "title": "Employee ID",
+      "required": true,
+      "prompt": "e.g. EMP-1234"
+    }
+  ],
+  "selectitems": [
+    {
+      "title": "Department",
+      "values": ["Engineering", "Design", "Marketing", "Sales", "Finance", "HR", "Operations"],
+      "default": "Engineering"
+    },
+    {
+      "title": "Office Location",
+      "values": ["New York", "London", "Tokyo", "Sydney"],
+      "default": "New York"
+    }
+  ],
+  "checkbox": [
+    {
+      "label": "I accept the terms of use",
+      "checked": false
+    }
+  ]
+}

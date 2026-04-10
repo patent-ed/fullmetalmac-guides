@@ -1,0 +1,19 @@
+{
+  "title": "Security Compliance Check",
+  "icon": "SF=shield.checkered,colour=#007AFF,weight=medium",
+  "message": "Verifying your device meets security requirements...",
+  "messagefont": "size=14",
+  "listitem": [
+    {"title": "FileVault Encryption", "status": "wait"},
+    {"title": "Firewall Enabled", "status": "wait"},
+    {"title": "System Integrity Protection", "status": "wait"},
+    {"title": "macOS Version", "status": "wait"},
+    {"title": "Gatekeeper", "status": "wait"}
+  ],
+  "progress": 5,
+  "progresstext": "Starting compliance check...",
+  "button1text": "Close",
+  "button1disabled": true,
+  "width": "700",
+  "ontop": true
+}

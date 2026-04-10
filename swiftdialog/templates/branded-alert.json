@@ -1,0 +1,14 @@
+{
+  "bannerimage": "colour=#1D4ED8",
+  "bannertitle": "Company IT — Important Notice",
+  "titlefont": "shadow=1,colour=#FFFFFF,weight=bold,size=22",
+  "message": "A required action needs your attention.\n\nPlease review the details below and take the appropriate action.",
+  "messagefont": "size=14",
+  "icon": "SF=exclamationmark.triangle.fill,colour=orange",
+  "button1text": "Acknowledge",
+  "button2text": "Remind Me Later",
+  "width": "650",
+  "timer": 300,
+  "hidetimerbar": true,
+  "ontop": true
+}
